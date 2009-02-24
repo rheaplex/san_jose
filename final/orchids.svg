@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<!-- Generator: Adobe Illustrator 10, SVG Export Plug-In . SVG Version: 3.0.0 Build 76)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN"    "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
+	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
+	<!ENTITY ns_svg "http://www.w3.org/2000/svg">
+	<!ENTITY ns_xlink "http://www.w3.org/1999/xlink">
+]>
+<svg  xmlns="&ns_svg;" xmlns:xlink="&ns_xlink;" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+	 width="635.286" height="575.87" viewBox="0 0 635.286 575.87" style="overflow:visible;enable-background:new 0 0 635.286 575.87"
+	 xml:space="preserve">
+	<style type="text/css">
+	<![CDATA[
+		@font-face{font-family:'Times-Roman';src:url(F09D49A2.cef)}
+	]]>
+	</style>
+	<g id="Layer_1">
+		<text transform="matrix(1 0 0 1 0 512.9067)"><tspan x="0" y="0" style="font-family:'Times-Roman'; font-size:12;">&quot;Orchids&quot;</tspan><tspan x="0" y="14.5" style="font-family:'Times-Roman'; font-size:12;">Copyright </tspan><tspan x="51.668" y="14.5" style="font-family:'Times-Roman'; font-size:12;">&#xA9;</tspan><tspan x="60.785" y="14.5" style="font-family:'Times-Roman'; font-size:12;"> 2000 Rob Myers http://www.robmyers.org/ .</tspan><tspan x="0" y="29" style="font-family:'Times-Roman'; font-size:12;">This work is licensed under the Creative Commons Attribution-ShareAlike License.</tspan><tspan x="0" y="43.5" style="font-family:'Times-Roman'; font-size:12;">To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/1.0/ </tspan><tspan x="0" y="58" style="font-family:'Times-Roman'; font-size:12;">or send a letter to Creative Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.</tspan></text>
+		<g>
+			<g>
+				<path style="stroke:#000000;stroke-width:15.984;" d="M207.816,84.695c106.56,71.28,201.241-33.048,147.024,79.561
+					c-54.144,112.68-73.512,198.071-143.208,182.592c-69.624-15.552-85.104,23.256-125.784-128.16
+					C45.24,67.199-24.456-39.649,76.2,78.863c100.584,118.44,143.208,153.36,154.8,128.16
+					c11.592-25.271,32.904-25.271-13.536-60.191c-46.44-34.992-75.456-75.744-69.696-95.185
+					C153.6,32.208,190.392,73.031,207.816,84.695z"/>
+				<g>
+					<path style="stroke:#000000;stroke-width:15.984;" d="M409.057,119.615c-23.904,20.521-25.129-3.888-25.129,42.696
+						c0,46.656,9.648,34.992,23.184,38.88c13.537,3.888,135.505-33.048,158.688-38.88c23.257-5.76,58.104-1.944,23.257-19.368
+						C554.208,125.447,422.592,107.951,409.057,119.615z"/>
+					<path style="stroke:#000000;stroke-width:15.984;" d="M422.592,224.447c-29.016,0-25.128-5.76-32.904,3.889
+						c-7.703,9.72-44.496,25.271-29.016,48.6c15.48,23.256-13.536,9.72,65.809,31.032c79.344,21.384,79.344,31.104,125.783,27.216
+						c46.44-3.888,5.832-38.88-5.832-44.64C534.84,284.711,424.536,224.447,422.592,224.447z"/>
+					<path style="stroke:#000000;stroke-width:15.984;" d="M352.248,320.567c-31.104-7.92-23.904-16.128-46.152,16.272
+						c-22.176,32.472-12.312,32.976-15.624,38.088c-3.312,5.184,250.704,184.032,201.383,95.399
+						C442.536,381.624,380.328,327.695,352.248,320.567z"/>
+				</g>
+			</g>
+			<g>
+				<path style="fill:#B2AFD4;stroke:#7264AD;stroke-width:15.984;" d="M231.648,64.463
+					c106.56,71.279,201.312-32.977,147.096,79.632c-54.145,112.607-73.512,198.072-143.208,182.52
+					c-69.696-15.479-85.176,23.328-125.784-128.16C69.072,47.039-0.552-59.809,100.032,58.631
+					c100.656,118.512,143.28,153.432,154.872,128.16c11.592-25.2,32.904-25.2-13.536-60.192
+					c-46.44-34.92-75.528-75.744-69.696-95.112C177.504,12.047,214.224,52.799,231.648,64.463z"/>
+				<g>
+					<path style="fill:#DAE3B1;stroke:#B3B35F;stroke-width:15.984;" d="M432.96,99.455c-23.903,20.521-25.2-3.888-25.2,42.696
+						s9.721,34.992,23.256,38.88c13.536,3.816,135.504-33.048,158.688-38.88c23.256-5.832,58.032-1.943,23.256-19.439
+						C578.111,105.287,446.496,87.792,432.96,99.455z"/>
+					<path style="fill:#DAE3B1;stroke:#B3B35F;stroke-width:15.984;" d="M446.496,204.287c-29.088,0-25.128-5.832-32.904,3.889
+						c-7.775,9.72-44.496,25.271-29.016,48.527c15.48,23.328-13.536,9.721,65.808,31.104
+						c79.345,21.384,79.345,31.032,125.784,27.216c46.439-3.888,5.832-38.88-5.832-44.712
+						C558.744,264.479,448.439,204.287,446.496,204.287z"/>
+					<path style="fill:#DAE3B1;stroke:#B3B35F;stroke-width:15.984;" d="M376.08,300.335c-31.032-7.849-23.832-16.057-46.08,16.344
+						c-22.176,32.399-12.384,32.904-15.695,38.088c-3.312,5.184,250.775,184.032,201.455,95.328S404.232,307.535,376.08,300.335z"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</svg>
