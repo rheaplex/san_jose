@@ -1,31 +1,73 @@
-<?xml version="1.0" encoding="iso-8859-1"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Generator: Adobe Illustrator 10, SVG Export Plug-In . SVG Version: 3.0.0 Build 76)  -->
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN"    "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd" [
-	<!ENTITY ns_flows "http://ns.adobe.com/Flows/1.0/">
-	<!ENTITY ns_svg "http://www.w3.org/2000/svg">
-	<!ENTITY ns_xlink "http://www.w3.org/1999/xlink">
-]>
-<svg  xmlns="&ns_svg;" xmlns:xlink="&ns_xlink;" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
-	 width="469.923" height="664.676" viewBox="0 0 469.923 664.676"
-	 style="overflow:visible;enable-background:new 0 0 469.923 664.676" xml:space="preserve">
-	<style type="text/css">
-	<![CDATA[
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="320.47202"
+   height="585.93604"
+   viewBox="0 0 469.923 664.676"
+   style="overflow:visible"
+   xml:space="preserve"
+   id="svg2633"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   sodipodi:docname="fudge.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   version="1.0"><metadata
+   id="metadata2663"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /></cc:Work></rdf:RDF></metadata><defs
+   id="defs2661"><inkscape:perspective
+   sodipodi:type="inkscape:persp3d"
+   inkscape:vp_x="0 : 332.33801 : 1"
+   inkscape:vp_y="0 : 1000 : 0"
+   inkscape:vp_z="469.923 : 332.33801 : 1"
+   inkscape:persp3d-origin="234.9615 : 221.55868 : 1"
+   id="perspective2665" />
+		
+		
+	</defs><sodipodi:namedview
+   inkscape:window-height="670"
+   inkscape:window-width="640"
+   inkscape:pageshadow="2"
+   inkscape:pageopacity="0.0"
+   guidetolerance="10.0"
+   gridtolerance="10.0"
+   objecttolerance="10.0"
+   borderopacity="1.0"
+   bordercolor="#666666"
+   pagecolor="#ffffff"
+   id="base"
+   showgrid="false"
+   inkscape:zoom="0.69507547"
+   inkscape:cx="234.9615"
+   inkscape:cy="332.33801"
+   inkscape:window-x="67"
+   inkscape:window-y="0"
+   inkscape:current-layer="svg2633" />
+	<style
+   type="text/css"
+   id="style2635">
+	
 		@font-face{font-family:'Times-Roman';src:url(106C684B.cef)}
-	]]>
+	
 	</style>
-	<g id="Layer_1">
-		<text transform="matrix(1 0 0 1 1.6123 601.7134)"><tspan x="0" y="0" style="font-family:'Times-Roman'; font-size:12;">&quot;Fudge&quot;</tspan><tspan x="0" y="14.5" style="font-family:'Times-Roman'; font-size:12;">Copyright </tspan><tspan x="51.668" y="14.5" style="font-family:'Times-Roman'; font-size:12;">&#xA9;</tspan><tspan x="60.785" y="14.5" style="font-family:'Times-Roman'; font-size:12;"> 2000 Rob Myers http://www.robmyers.org/ .</tspan><tspan x="0" y="29" style="font-family:'Times-Roman'; font-size:12;">This work is licensed under the Creative Commons Attribution-ShareAlike License.</tspan><tspan x="0" y="43.5" style="font-family:'Times-Roman'; font-size:12;">To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/1.0/ </tspan><tspan x="0" y="58" style="font-family:'Times-Roman'; font-size:12;">or send a letter to Creative Commons, 559 Nathan Abbott Way, Stanford, California 94305, USA.</tspan></text>
-		<g>
-			<path style="stroke:#000000;stroke-width:15.984;" d="M182.084,347.246l98.856-135.504l-30.168-22.032l66.168-52.272
-				L178.772,30.662l-29.017,68.472l91.729,44.136l-16.272,33.696l-89.424-44.136l-39.456,55.728l75.456,42.984l33.696-13.968
-				l-40.608,84.744l1.152,1.151l-8.353,17.424L14.324,370.43l41.184,60.84l87.048-52.344l19.729,32.688l-86.328,50.976
-				l24.336,62.784l77.76-39.312l7.488-35.856l48.456,80.496l0.72-0.432l32.185,52.344l23.688-14.544l-68.832-184.464l-35.567,14.039
-				L182.084,347.246z"/>
-			<path style="fill:#FED95E;stroke:#D19800;stroke-width:15.984;" d="M180.212,329.246l98.856-135.504L248.9,171.709l66.168-52.272
-				L176.9,12.662l-29.017,68.472l91.729,44.136l-16.272,33.696l-89.424-44.136L94.46,170.558l75.456,42.984l33.696-13.968
-				l-40.68,84.744l1.151,1.152l-8.28,17.423L12.452,352.43l41.112,60.84l87.12-52.344l19.728,32.76l-86.328,50.903l24.336,62.784
-				l77.688-39.312l7.56-35.856l48.456,80.496l0.721-0.432l32.184,52.344l23.616-14.544l-68.832-184.464l-35.496,14.039
-				L180.212,329.246z"/>
-		</g>
-	</g>
-</svg>
+	
+<g
+   transform="matrix(1.4663464,0,0,1.4663464,-6.5399048,-104.10237)"
+   style="overflow:visible"
+   id="g2654">
+			<path
+   id="path2656"
+   d="M 182.084,347.246 L 280.94,211.742 L 250.772,189.71 L 316.94,137.438 L 178.772,30.662 L 149.755,99.134 L 241.484,143.27 L 225.212,176.966 L 135.788,132.83 L 96.332,188.558 L 171.788,231.542 L 205.484,217.574 L 164.876,302.318 L 166.028,303.469 L 157.675,320.893 L 14.324,370.43 L 55.508,431.27 L 142.556,378.926 L 162.285,411.614 L 75.957,462.59 L 100.293,525.374 L 178.053,486.062 L 185.541,450.206 L 233.997,530.702 L 234.717,530.27 L 266.902,582.614 L 290.59,568.07 L 221.758,383.606 L 186.191,397.645 L 182.084,347.246 z"
+   style="stroke:#000000;stroke-width:15.98400021" />
+			<path
+   id="path2658"
+   d="M 180.212,329.246 L 279.068,193.742 L 248.9,171.709 L 315.068,119.437 L 176.9,12.662 L 147.883,81.134 L 239.612,125.27 L 223.34,158.966 L 133.916,114.83 L 94.46,170.558 L 169.916,213.542 L 203.612,199.574 L 162.932,284.318 L 164.083,285.47 L 155.803,302.893 L 12.452,352.43 L 53.564,413.27 L 140.684,360.926 L 160.412,393.686 L 74.084,444.589 L 98.42,507.373 L 176.108,468.061 L 183.668,432.205 L 232.124,512.701 L 232.845,512.269 L 265.029,564.613 L 288.645,550.069 L 219.813,365.605 L 184.317,379.644 L 180.212,329.246 z"
+   style="fill:#fed95e;stroke:#d19800;stroke-width:15.98400021" />
+		</g></svg>
